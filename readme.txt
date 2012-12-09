@@ -1,0 +1,20 @@
+   Code: New MasterMind Mobile Game
+   Version: 1.0
+   Language: ActionScript 3.0
+
+   Year: February 2012
+   Autor: Buğra ÖZDEN
+   Mail: bugra.ozden@gmail.com
+   Site: bugraozden.com
+
+
+   You are free:
+
+   to Share — to copy, distribute and transmit the work
+   to Remix — to adapt the work
+   to make commercial use of the work
+
+   <http://creativecommons.org/licenses/by/3.0/>
+
+
+   Have Fun.
